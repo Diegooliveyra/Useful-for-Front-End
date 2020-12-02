@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="250px">
   <a href="https://github.com/Diegooliveyra/Useful-for-Front-End/blob/main/README.md">
     <img alt="Logo do projeto" src="https://github.com/Diegooliveyra/Useful-for-Front-End/blob/main/logo.png">
   </a>
@@ -11,12 +11,13 @@
 <h2>Para contribuir siga os passos</h2>
 
 <ol>
-    <li>1.	Fork este repositório
-    <li>2.	Adicione os links mantendo a mesma padronização de estilo 
-    <li>3.	Faça seus commits em português
-    <li>4.	Solicite a pull request
-    <li>5.	De preferência, Insira um pequeno resumo do que foi adicionado/modificado
+    <li>Fork este repositório
+    <li>Adicione os links mantendo a mesma padronização de estilo 
+    <li>Faça seus commits em português
+    <li>Solicite a pull request
+    <li>De preferência, Insira um pequeno resumo do que foi adicionado/modificado
 </ol>
-[<p>Acesse os links »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/CONTRIBUTING.md)
+
+[<p>Acesse os links »</p>](https://github.com/Diegooliveyra/Useful-for-Front-End/blob/main/README.md)
 
 
