@@ -11,15 +11,15 @@
 [<p align="center">Como contribuir ?</p>](https://github.com/Diegooliveyra/Useful-for-Front-End/blob/main/como-contribuir.md)
 
 ### ✔️ HTML
-[Validador de código HTML](https://validator.w3.org) - Validador de código HTML  
+* [Validador de código HTML](https://validator.w3.org) - Validador de código HTML  
  
 ### ✔️ CSS
-[Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
-[Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
+* [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
+* [Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
    
 ### ✔️ JAVASCRIPT 
-[Referência JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)     
-[regex101](https://regex101.com)      
+* [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
+* [regex101](https://regex101.com) - Execute regExp direto do navegador     
 
 
 ### ✔️ BANCOS DE IMAGENS
