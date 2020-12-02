@@ -26,7 +26,7 @@
 [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas  
 
 ### ✔️ ILUSTRAÇÕES
-[Undraw](https://undraw.co) - Arquivos em Vetor com opção de personalizar as cores 
+[Undraw](https://undraw.co) - Arquivos em Vetor com opção de personalizar as cores      
 [Ara Illustration](https://www.aracreator.com/)  Vetores diversos e gratuitos
 
 ### ✔️ CHALLENGES
@@ -34,7 +34,7 @@
 [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos
 
 ### ✔️ BIBLIOTECA DE ICONES
-[Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos 
+[Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos     
 [Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais
 
 ### ✔️ BIBLIOTECA DE ICONES
