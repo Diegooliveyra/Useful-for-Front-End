@@ -11,16 +11,32 @@
 [<p align="center">Como contribuir ?</p>](https://github.com/Diegooliveyra/Useful-for-Front-End/blob/main/como-contribuir.md)
 
 ### ✔️ HTML
-* [Validador de código HTML](https://validator.w3.org) - Validador de código HTML  
+[Validador de código HTML](https://validator.w3.org) - Validador de código HTML  
  
 ### ✔️ CSS
-* [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
-* [Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
+[Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
+[Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
    
 ### ✔️ JAVASCRIPT 
-* [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
-* [regex101](https://regex101.com) - Execute regExp direto do navegador     
+[MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
+[regex101](https://regex101.com) - Execute regExp direto do navegador     
 
 
 ### ✔️ BANCOS DE IMAGENS
-* [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas  
+[Unsplash](https://unsplash.com/) - Banco de imagens gratuitas  
+
+### ✔️ ILUSTRAÇÕES
+[Undraw](https://undraw.co) - Arquivos em Vetor com opção de personalizar as cores
+[Ara Illustration](https://www.aracreator.com/)  Vetores diversos e gratuitos
+
+### ✔️ CHALLENGES
+[Frontend Mentor](https://www.frontendmentor.io/) - Desafios HTML, CSS e JavaScript
+[App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos
+
+### ✔️ BIBLIOTECA DE ICONES
+[Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos 
+[Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais
+
+### ✔️ BIBLIOTECA DE ICONES
+[Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Vou fazer você se apaixonar por programação! Vídeo toda segunda às 11h! 
+[CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives sobre JS, front-end, etc
