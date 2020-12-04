@@ -24,19 +24,23 @@
 
 ### ✔️ BANCOS DE IMAGENS
 [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas  
+[Pexels](https://www.pexels.com) - Banco de fotos grátis que você pode usar em qualquer lugar  
 
 ### ✔️ ILUSTRAÇÕES
 [Undraw](https://undraw.co) - Arquivos em Vetor com opção de personalizar as cores      
 [Ara Illustration](https://www.aracreator.com/)  Vetores diversos e gratuitos
 
 ### ✔️ CHALLENGES
-[Frontend Mentor](https://www.frontendmentor.io/) - Desafios HTML, CSS e JavaScript
-[App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos
+[Frontend Mentor](https://www.frontendmentor.io/) - Desafios HTML, CSS e JavaScript  
+[App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos  
+[Codier](https://codier.io/) - Explorar e tentar desafios de codificação de front-end  
+
+
 
 ### ✔️ BIBLIOTECA DE ICONES
 [Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos     
 [Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais
 
 ### ✔️ BIBLIOTECA DE ICONES
-[Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Vou fazer você se apaixonar por programação! Vídeo toda segunda às 11h! 
+[Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Vou fazer você se apaixonar por programação! Vídeo toda segunda às 11h!  
 [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives sobre JS, front-end, etc
