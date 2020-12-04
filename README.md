@@ -41,6 +41,6 @@
 [Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos     
 [Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais
 
-### ✔️ BIBLIOTECA DE ICONES
+### ✔️ CANAIS DO YOUTUBE
 [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Vou fazer você se apaixonar por programação! Vídeo toda segunda às 11h!  
 [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives sobre JS, front-end, etc
