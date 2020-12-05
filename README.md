@@ -56,7 +56,7 @@
 
 
 ### ✔️ GIT / GITHUB
-[git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
+[git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git  
 [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git  
 [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist  
 [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub  
