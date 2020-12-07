@@ -16,6 +16,7 @@
 ### ✔️ CSS
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
 [Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
+[CSS Tricks](https://css-tricks.com/) - Coleção de dicas e malandragens em CSS
    
 ### ✔️ JAVASCRIPT 
 [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
