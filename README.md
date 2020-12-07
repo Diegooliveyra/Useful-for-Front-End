@@ -61,3 +61,9 @@
 [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist  
 [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub  
 [Git Explorer](https://gitexplorer.com/) - Encontre os comandos corretos do Git para o que você precisa  
+
+
+### ✔️ GESTÃO DE PROJETOS
+[Notion](https://www.notion.so/) - É um aplicativo e serviço de notas com suporte a descontos que integra tarefas, wikis e bancos de dados  
+[Trello](https://www.trello.com/) - Aplicativo de gerenciamento de projeto  
+[Google Keep](https://keep.google.com/) - Serviço do Google para anotações  
