@@ -17,7 +17,12 @@
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
 [Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
 [CSS Tricks](https://css-tricks.com/) - Coleção de dicas e malandragens em CSS  
-[UX Design](https://uxdesign.cc/) - Coleção de artigos sobre UX
+[UX Design](https://uxdesign.cc/) - Coleção de artigos sobre UX  
+
+### ✔️ CSS FRAMEWORK
+[Bootstrap](https://www.getbootstrap.com/) - Framework web com código-fonte aberto para desenvolvimento de componentes de interface  
+[Bulma CSS](https://bulma.io/) - Framework CSS totalmente gratuito, inspirado no Bootstrap e baseado em Flexbox.  
+[Tailwind](https://tailwindcss.com/) - Um framework CSS de baixo nível altamente personalizável.  
    
 ### ✔️ JAVASCRIPT 
 [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
@@ -35,6 +40,11 @@
 ### ✔️ ILUSTRAÇÕES
 [Undraw](https://undraw.co) - Arquivos em Vetor com opção de personalizar as cores      
 [Ara Illustration](https://www.aracreator.com/)  Vetores diversos e gratuitos
+
+
+### ✔️ DESIGN / UI-UX
+[Adobe XD](https://www.adobe.com/br/products/xd.html) -  Ferramenta de design de experiência do usuário  
+[Figma](https://www.figma.com/) - Figma é um editor gráfico de vetor e prototipagem de projetos de design  
 
 
 ### ✔️ CHALLENGES
