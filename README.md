@@ -18,6 +18,7 @@
 [Can I Use](https://caniuse.com) - Fornece tabelas referente ao suporte dos navegadores  
 [CSS Tricks](https://css-tricks.com/) - Coleção de dicas e malandragens em CSS  
 [UX Design](https://uxdesign.cc/) - Coleção de artigos sobre UX  
+[CSS Gradient](https://cssgradient.io/) - Ferramenta gratuita que permite criar um fundo gradiente para sites  
 
 ### ✔️ CSS FRAMEWORK
 [Bootstrap](https://www.getbootstrap.com/) - Framework web com código-fonte aberto para desenvolvimento de componentes de interface  
