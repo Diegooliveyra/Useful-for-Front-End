@@ -12,6 +12,7 @@
 
 ### ✔️ HTML
 [Validador de código HTML](https://validator.w3.org) - Validador de código HTML  
+[MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Referências de HTML
  
 ### ✔️ CSS
 [Box Shadow CSS Generator](https://www.cssmatic.com/box-shadow) - Gerador de Box Shadow     
