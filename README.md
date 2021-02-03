@@ -20,6 +20,7 @@
 [CSS Tricks](https://css-tricks.com/) - Coleção de dicas e malandragens em CSS  
 [UX Design](https://uxdesign.cc/) - Coleção de artigos sobre UX  
 [CSS Gradient](https://cssgradient.io/) - Ferramenta gratuita que permite criar um fundo gradiente para sites  
+[CSS Compressor](https://csscompressor.com/) - Ferramenta gratuita que comprime e reduz o tamanho do seu CSS  
 
 ### ✔️ CSS FRAMEWORK
 [Bootstrap](https://www.getbootstrap.com/) - Framework web com código-fonte aberto para desenvolvimento de componentes de interface  
@@ -80,4 +81,8 @@
 ### ✔️ GESTÃO DE PROJETOS
 [Notion](https://www.notion.so/) - É um aplicativo e serviço de notas com suporte a descontos que integra tarefas, wikis e bancos de dados  
 [Trello](https://www.trello.com/) - Aplicativo de gerenciamento de projeto  
-[Google Keep](https://keep.google.com/) - Serviço do Google para anotações  
+[Google Keep](https://keep.google.com/) - Serviço do Google para anotações   
+
+### ✔️ GESTÃO DE PROJETOS
+[Search.google](https://search.google.com/test/mobile-friendly) - Site pra analisar o SEO dos seus sites  
+
