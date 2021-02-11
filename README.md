@@ -36,6 +36,7 @@
 [React](https://pt-br.reactjs.org/) - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.     
 [Vue](https://vuejs.org/) - VuVue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única    
 [Angular](https://angular.io/) - Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript     
+[Ember](https://emberjs.com/) - é um framework web JavaScript de código aberto, baseado na arquitetura Model–view–viewmodel.        
 
 ### ✔️ BANCOS DE IMAGENS
 [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas  
@@ -64,7 +65,8 @@
 
 ### ✔️ BIBLIOTECA DE ICONES
 [Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos     
-[Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais
+[Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais    
+[Iconify](https://iconify.design/) - Icones vetoriais 
 
 
 ### ✔️ CANAIS DO YOUTUBE
