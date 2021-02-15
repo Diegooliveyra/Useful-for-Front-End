@@ -75,7 +75,8 @@
 [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento, GitHub, PHP, Golang e outras linguagens  
 [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias  
 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Canal da Startup de ensino Rocketseat  
-
+[Código Fonte TV ](https://www.youtube.com/c/codigofontetv) - Canal fala sobre o mundo maravilhoso da programação de uma forma diferente e divertida   
+[ Programador BR  ](https://www.youtube.com/c/Programadorbr) -  lugar certo para quem quer saber sobre programação, carreira e empreendedorismo.   
 
 ### ✔️ GIT / GITHUB
 [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git  
