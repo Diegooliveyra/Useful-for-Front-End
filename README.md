@@ -99,3 +99,9 @@
 [Clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Livro Clean Code traduzido para PT-br  
 [Eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Uma moderna introdução ao JavaScript   
 [HTML5 W3C](https://drive.google.com/file/d/1QSU3Pl4U5kVL8fiHbl_n1F2zfbOjRzek/view) - Introdução ao HTML 5 feito pela W3C      
+
+
+### ✔️ PODCASTS
+[Devnaestrada](https://devnaestrada.com.br/)  
+[Fala Dev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW/)    
+[Cabeça de Lab](https://www.cabecadelab.com.br/)  
