@@ -44,6 +44,9 @@
 [Flickr](https://flickr.com/) - Rede social de fotógrafos  
 [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas  
 [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas  
+[Pixabay](https://pixabay.com/) - Over 1.9 million+ high quality stock images     
+[Shutterstock](https://www.shutterstock.com/pt/explore/royalty-free-images) - Navegue por milhões de imagens livres de direitos     
+
 
 
 ### ✔️ ILUSTRAÇÕES
