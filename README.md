@@ -108,3 +108,11 @@
 [Devnaestrada](https://devnaestrada.com.br/)  
 [Fala Dev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW/)    
 [Cabeça de Lab](https://www.cabecadelab.com.br/)  
+
+
+
+### ✔️ HOSPEDAGENS
+[Heroku](https://www.heroku.com/) - Plataforma em nuvem que suporta várias linguagens de programação  
+[Netlify](https://www.netlify.com/) - serviços de hospedagem e back-end sem servidor para aplicativos da Web e sites estáticos.  
+[Vercel](https://vercel.com/) - Implante projetos da web com a melhor experiência de desenvolvedor front-end    
+
