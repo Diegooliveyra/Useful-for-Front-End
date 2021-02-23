@@ -108,7 +108,7 @@
 [Devnaestrada](https://devnaestrada.com.br/) - O podcast mais tradicional sobre desenvolvimento! Toda sexta-feira um novo episódio      
 [Fala Dev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW/) - Nesse podcast três programadores se reúnem para discutir o universo da programação.       
 [Cabeça de Lab](https://www.cabecadelab.com.br/) - Cabeça de Lab é o podcast do LuizaLabs, o laboratório de inovação e tecnologia do Magalu.      
-
+[Lambda3 Podcast](https://player.fm/series/lambda3-podcast-1528672/) - Focado em tecnologia profissional, principalmente desenvolvimento de software   
 
 
 ### ✔️ HOSPEDAGENS
