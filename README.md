@@ -93,6 +93,7 @@
 [Notion](https://www.notion.so/) - É um aplicativo e serviço de notas com suporte a descontos que integra tarefas, wikis e bancos de dados  
 [Trello](https://www.trello.com/) - Aplicativo de gerenciamento de projeto  
 [Google Keep](https://keep.google.com/) - Serviço do Google para anotações   
+[Evernote](https://evernote.com/intl/pt-br/) - Evernote é um software destinado a organização da informação pessoal mediante um arquivo de notas       
 
 ### ✔️ SEO
 [Search.google](https://search.google.com/test/mobile-friendly) - Site pra analisar o SEO dos seus sites  
