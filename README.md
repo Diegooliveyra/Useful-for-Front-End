@@ -116,4 +116,5 @@
 [Heroku](https://www.heroku.com/) - Plataforma em nuvem que suporta várias linguagens de programação  
 [Netlify](https://www.netlify.com/) - serviços de hospedagem e back-end sem servidor para aplicativos da Web e sites estáticos.  
 [Vercel](https://vercel.com/) - Implante projetos da web com a melhor experiência de desenvolvedor front-end    
+[1freehosting](https://www.1freehosting.com/) - Free hosting with PHP, MySQL, cPanel & No ads       
 
