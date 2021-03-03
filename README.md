@@ -27,6 +27,7 @@
 [Bootstrap](https://www.getbootstrap.com/) - Framework web com código-fonte aberto para desenvolvimento de componentes de interface  
 [Bulma CSS](https://bulma.io/) - Framework CSS totalmente gratuito, inspirado no Bootstrap e baseado em Flexbox.  
 [Tailwind](https://tailwindcss.com/) - Um framework CSS de baixo nível altamente personalizável.  
+[Material-ui](https://material-ui.com/pt/) - Biblioteca de componentes React para um desenvolvimento ágil e fácil    
    
 ### ✔️ JAVASCRIPT 
 [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference) - Referências de JavaScript     
