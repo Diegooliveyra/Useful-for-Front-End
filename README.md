@@ -72,6 +72,7 @@
 [Iconfonts](https://icofont.com) - Icones gratuitos para incrementar seus designs criativos     
 [Font Awesome](https://fontawesome.com) - Icones vetoriais e logotipos sociais    
 [Iconify](https://iconify.design/) - Icones vetoriais 
+[Feathericons](https://feathericons.com/) - Simply beautiful open source icons     
 
 
 ### ✔️ CANAIS DO YOUTUBE
